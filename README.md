@@ -17,3 +17,4 @@ Next Steps:
 🔹 Add JWT Token Authentication for security.
 🔹 Implement SHA-256 Hashing instead of AES for integrity checks.
 🔹 Deploy on AWS Edge Servers for real-world Edge Computing.
+
